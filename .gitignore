@@ -30,5 +30,5 @@ yarn-error.log*
 .idea/
 
 # Environment
-public/env.json
+# public/env.json
 misc/
