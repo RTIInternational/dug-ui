@@ -26,7 +26,7 @@ template='{
     "workspaces_enabled": "%WORKSPACES_ENABLED%",
     "tranql_url": "%TRANQL_URL%",
     "analytics": {
-      "enabled": true,
+      "enabled": false,
       "platform": "mixpanel",
       "auth": {
       "mixpanel_token": "%ANALYTICS%",
